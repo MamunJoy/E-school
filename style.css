@@ -1,0 +1,20 @@
+
+body{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.nav-item a{
+    font-size: 20px;
+}
+.nav-button{
+    border-radius: 20px;
+}
+.home-site{
+    padding: 20px;
+}
+.bg-color{
+    background-color:darkseagreen;
+    margin: 0;
+    padding: 0;
+}
