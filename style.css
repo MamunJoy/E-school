@@ -3,6 +3,13 @@ body{
     font-family: 'Anton', sans-serif;
     font-family: 'Bebas Neue', cursive;
     font-family: 'Josefin Sans', sans-serif;
+    
+}
+/* .container{
+  gap: 20px 5px;
+} */
+.card{
+    column-gap: 2rem;
 }
 .nav-item a{
     font-size: 20px;
@@ -17,4 +24,8 @@ body{
     background-color:darkseagreen;
     margin: 0;
     padding: 0;
+}
+.small-logo{
+    height: 200px;
+    width: 200px;
 }
