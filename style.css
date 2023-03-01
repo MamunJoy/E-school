@@ -29,3 +29,10 @@ body{
     height: 200px;
     width: 200px;
 }
+.card-footer{
+    display: flex;
+}
+.pic-size{
+    height: 180px;
+    width: 180px;
+}
